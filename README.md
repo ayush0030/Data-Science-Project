@@ -48,5 +48,5 @@ NOTE: If you wish to run the project on the local computer please follow the ste
       5. Open the File from the list visible & then select "Kernal" from the above menu and then select "Restart and Run All" option from the                dropdown.
 
 
-
+For 6 months or six weeks industrial training visit: www.tcilitchandigarh.com
 
