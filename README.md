@@ -1,19 +1,33 @@
 This Repository has the files for the project titled as "INDIAN RAINFALL ANALYSIS".
 
+
 This project has been made to showcase the power and importance of Data Visualisation & Analytics in today's era.
 
+
 Here I have a dataset named as "rainfall_in_india_1901-2015.csv" which is a CSV(Comma Seperated Values) file, this file contains the rainfall/ precipitation data of different districts in India for all months and 4 seasons since the year 1901 till year 2015.
+
+
 Further it has almost 4116 rows and 19 columns which can be seen after opening/ downloading the dataset.
+
 
 The original source for this dataset is dedicated to KAGGLE and has the link as "https://www.kaggle.com/rajanand/rainfall-in-india"
 
+
 Moving on to the main file that is the .ipynb (Juyter Notebook) named as "Indian Rainfall Analysis Project - Ayush.ipynb":
+
+
         This is an interactive python notebook that is having the python code and has the following data science libraries imported as:
-                import numpy as np
-                import pandas as pd
+        
+                import numpy as np           
+                
+                import pandas as pd              
+                
                 import matplotlib 
+                
                 import matplotlib.pyplot as plt
+                
                 import seaborn as sns
+                
     
         Further in this notebook we have imported the dataset and performed cleaning, grouping, cropping, merging, compiling, analyzed, processed &           visualized the data in the form of graphs and charts.
  
