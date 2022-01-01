@@ -21,9 +21,14 @@ At last I have made a project report for the same named as "Report.pdf" which ha
 
 NOTE: If you wish to run the project on the local computer please follow the steps:
       1. Install ANACONDA from "https://www.anaconda.com/products/individual"
+      
       2. Install the Jupyter Notebooks within Anaconda.
+      
       3. Open Jupyter Notebook.
-      4. In the home/dashboard go to the "Upload" in the upper right side of the screen & then choose the downloaded "Indian Rainfall Analysis                Project - Ayush.ipynb" file and upload it.
+      
+      4. In the home/dashboard go to the "Upload" in the upper right side of the screen & then choose the downloaded "Indian Rainfall Analysis 
+      Project - Ayush.ipynb" file and upload it.
+      
       5. Open the File from the list visible & then select "Kernal" from the above menu and then select "Restart and Run All" option from the                dropdown.
 
 
