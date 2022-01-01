@@ -45,7 +45,7 @@ NOTE: If you wish to run the project on the local computer please follow the ste
       4. In the home/dashboard go to the "Upload" in the upper right side of the screen & then choose the downloaded "Indian Rainfall Analysis 
       Project - Ayush.ipynb" file and upload it.
       
-      5. Open the File from the list visible & then select "Kernal" from the above menu and then select "Restart and Run All" option from the                dropdown.
+      5. Open the File from the list visible & then select "Kernal" from the above menu and then select "Restart and Run All" option from the  dropdown.
 
 
 For 6 months or six weeks industrial training visit: www.tcilitchandigarh.com
