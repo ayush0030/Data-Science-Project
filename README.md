@@ -20,6 +20,8 @@ Moving on to the main file that is the .ipynb (Juyter Notebook) named as "Indian
 At last I have made a project report for the same named as "Report.pdf" which has all the necessary information about the abstract, certificates, introduction, table of contents, work, graphs & conclusion.
 
 NOTE: If you wish to run the project on the local computer please follow the steps:
+
+
       1. Install ANACONDA from "https://www.anaconda.com/products/individual"
       
       2. Install the Jupyter Notebooks within Anaconda.
